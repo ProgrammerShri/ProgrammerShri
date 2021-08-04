@@ -35,9 +35,7 @@
   <img align="left" alt="Shrtkant's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" />
 </a>
 <!-- 
-<a href="https://auth.geeksforgeeks.org/user/v_k_rawat/practice/">
-  <img align="left" alt="Shrtkant's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
- -->
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ProgrammerShri) •
 
@@ -72,7 +70,8 @@
 
 ## Github Stats
 
-![Shrikant's GitHub stats](https://github-readme-stats.vercel.app/api?username=programmershri&count_private=true)
+![Shrikant's GitHub stats](https://github-readme-stats.vercel.app/api?username=programmershri&count_private=true&theme=radical
+)
 
 
 
