@@ -72,7 +72,7 @@
 
 ## Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=programmershri&count_private=true)
+![Shrikant's GitHub stats](https://github-readme-stats.vercel.app/api?username=programmershri&count_private=true)
 
 
 
