@@ -34,10 +34,8 @@
 <a href="https://www.youtube.com/channel/UCjAuxXn_kj6eTh4J68QGz5g">
   <img align="left" alt="Shrtkant's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" />
 </a>
-<!-- 
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=ProgrammerShri) •
+![](https://visitor-badge.glitch.me/badge?page_id=ProgrammerShri)
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
