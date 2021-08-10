@@ -4,10 +4,10 @@ name: Generate Snake
 
 on:
   schedule:
-    # every 6 hours
-#     - cron: "0 */1 * * *"
-    #runs every minute of every day.
-    - cron: "* * * * *"
+    # every every hours
+    - cron: "0 */1 * * *"
+#     #runs every minute of every day.
+#     - cron: "* * * * *"
     
 
   workflow_dispatch:
@@ -16,8 +16,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-
       - uses: Platane/snk@master
         id: snake-gif
         with:
@@ -26,9 +24,9 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - run: git status
-
+      
       - name: Push changes
-        uses: ad-m/github-push-action@master
+        uses: Platane/snk@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
