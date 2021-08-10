@@ -2,10 +2,10 @@ name: WakaTime Stats
 
 on:
   schedule:
-    # every 6 hours
-#     - cron: "0 */6 * * *"
-# runs every minute of every day.
-     - cron: "* * * * *"
+    # every 1 hours
+    - cron: "0 */1 * * *"
+# # runs every minute of every day.
+#      - cron: "* * * * *"
 
   workflow_dispatch:
 
