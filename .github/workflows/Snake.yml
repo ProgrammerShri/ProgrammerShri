@@ -4,8 +4,8 @@ name: Generate Snake
 
 on:
   schedule:
-    # every every hours
-    - cron: "0 */1 * * *"
+    # run every 12 hours
+    - cron: "0 */12 * * *"
 #     #runs every minute of every day.
 #     - cron: "* * * * *"
     
