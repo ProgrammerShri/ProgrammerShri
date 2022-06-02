@@ -1,5 +1,7 @@
-<h1> ### Hi, I'm Shrikant <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> (NITian NIT Raipur)
+<h1> ### Hi, I'm Shrikant (NITian NIT Raipur)
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px"> </h1>
+  
+  <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"> -->
 
 <!--  [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://www.github.com/in/programmershri/) -->
 
