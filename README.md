@@ -2,8 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
 </p>
 
-<h1 align='center'> Hi, Shri Here! </br> <p align='center'> NITian </p> </h1>
-
+<h1 align='center'> Hi, Shri Here! </br> <p align='center'> NITian </p> 
+</br>
+🚀 I'm a Full-Stack Developer...
+ </h1>
 </br>
 </hr>
 
