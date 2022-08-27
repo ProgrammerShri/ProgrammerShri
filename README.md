@@ -4,7 +4,7 @@
 
 <h1 align='center'> Hi, Shri Here! </br> <p align='center'> NITian </p> 
 </br>
-🚀 I'm a Full-Stack Developer...
+🚀 I'm a Front-End Developer!
  </h1>
 </br>
 </hr>
@@ -60,7 +60,7 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 ## A little more about me... 
-- 🔭 I’m currently working on - ReactJS, NextJS, NodeJs, CouchDB
+- 🔭 I’m currently working on - ReactJS, React-Native, NextJS,and NodeJs.
 - 🌱 I’m currently learning - Data Structure and Algorithm + Competitive Coding + Latest Tech Stack
 - 💬 Ask me about - Anything
 - 🥅 2022 Goal - Become a Full Time Freelancer
