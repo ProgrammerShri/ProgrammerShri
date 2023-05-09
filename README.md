@@ -4,7 +4,7 @@
 
 <h1 align='center'> Hi, Shri Here! </br> <p align='center'> NITian </p> 
 </br>
-🚀 I'm a Front-End Developer!
+🚀 I'm a Software Engineer!
  </h1>
 </br>
 </hr>
